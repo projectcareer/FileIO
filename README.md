@@ -1,6 +1,6 @@
 # FileIO
 .NET 文件系统，可在 System.IO 命名空间引用中实现其功能。
-	1. System.IO命名空间
+1. System.IO命名空间
 		a. get和set文件和目录的属性
 		b. Directory类公开用于创建、移动以及枚举目录和子目录的静态方法
 	2. 列出所有目录
